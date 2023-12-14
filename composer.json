@@ -1,5 +1,5 @@
 {
-    "name": "dev/contact-us",
+    "name": "devrikita/contact-us",
     "description": "conatact us package that give e view and table mail send funcalities for contact us for all site",
     "type": "project",
     "autoload": {
