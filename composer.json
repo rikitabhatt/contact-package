@@ -1,0 +1,16 @@
+{
+    "name": "dev/contact-us",
+    "description": "conatact us package that give e view and table mail send funcalities for contact us for all site",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "ContactUs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rikitabhatt"
+        }
+    ],
+    "require": {}
+}
