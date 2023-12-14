@@ -4,7 +4,7 @@ composer require devrikita/contact-us
 
 After install 
 
-do folowwing command 
+do following step 
 
 1)composer dump-autoload
 
