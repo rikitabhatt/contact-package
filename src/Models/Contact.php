@@ -1,6 +1,6 @@
 <?php
 
-namespace ContactUs\Models;
+namespace Devrikita\ContactUs\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

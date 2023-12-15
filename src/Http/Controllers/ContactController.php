@@ -1,10 +1,10 @@
 <?php
-namespace ContactUs\Http\Controllers;
+namespace Devrikita\ContactUs\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use ContactUs\Models\Contact;
-use ContactUs\Mail\ContactMailable;
+use Devrikita\ContactUs\Models\Contact;
+use Devrikita\ContactUs\Mail\ContactMailable;
 use Illuminate\Support\Facades\Mail;
 
 class ContactController extends Controller

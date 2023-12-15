@@ -1,6 +1,6 @@
 <?php
 
-namespace ContactUs\Mail;
+namespace Devrikita\ContactUs\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;

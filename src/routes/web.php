@@ -3,7 +3,7 @@
 //     Route::get('contact', 'ContactController@index')->name('contact');
 //     Route::post('contact', 'ContactController@send');
 // });
-use ContactUs\Http\Controllers\ContactController;
+use Devrikita\ContactUs\Http\Controllers\ContactController;
 
 Route::get('contact', [ContactController::class, 'index'])->name('contact');
 Route::post('contact', [ContactController::class, 'send']);

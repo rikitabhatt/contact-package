@@ -1,16 +1,19 @@
 {
-    "name": "devrikita/contact-us",
+    "name": "devrikita/contactUs",
     "description": "conatact us package that give e view and table mail send funcalities for contact us for all site",
-    "type": "project",
+    "type": "library",
+    "license":"MIT",
     "autoload": {
         "psr-4": {
-            "ContactUs\\": "src/"
+            "Devrikita\\ContactUs\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "rikitabhatt"
+            "name": "rikitabhatt",
+            "email":"rikita26#gmail.com"
         }
     ],
+    "minmum-stability":"dev",
     "require": {}
 }

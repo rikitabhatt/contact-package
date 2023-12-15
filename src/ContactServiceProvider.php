@@ -1,6 +1,6 @@
 <?php
 
-namespace ContactUs;
+namespace Devrikita\ContactUs;
 
 use Illuminate\Support\ServiceProvider;
 
